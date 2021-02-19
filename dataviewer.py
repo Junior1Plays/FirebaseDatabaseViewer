@@ -1,4 +1,4 @@
-import webbrower
+import webbrowser
 
 chrome = com.android.chrome
 
